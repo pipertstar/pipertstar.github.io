@@ -564,9 +564,11 @@ price{
   box-shadow: 0 0 1px rgba(0, 0, 0, .5);
 }
 
+
+
 /* formulario */
 
-formulario{
+.formulario{
   width: 15px;
   margin:16rem;
   height: 75px;
