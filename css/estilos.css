@@ -488,6 +488,14 @@ body{
   width: 60px;
 }
 
+.formulario{
+  flex-wrap: wrap;
+  position:relative;
+  justify-content: space-around;
+   
+  
+}
+
 
 }
 
