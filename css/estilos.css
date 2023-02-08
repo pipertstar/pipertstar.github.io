@@ -566,10 +566,11 @@ price{
 
 /* formulario */
 
-.formulario{
-  width: 25vw;
-  margin:10rem;
-  height: 10px;
+formulario{
+  width: 15px;
+  margin:16rem;
+  height: 75px;
+  align-items:center;
   display: grid;
   grid-template-columns:min-content;
   
