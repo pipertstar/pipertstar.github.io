@@ -177,11 +177,11 @@ body{
 }
 
 .about__main {
-  padding-top: 80px;
+  padding-top: 90px;
   display: grid;
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
-  gap: 1em;
+  gap: 2em;
   overflow: hidden;
   grid-template-columns: repeat(auto-fit, minmax(260px, auto));
 }
@@ -191,13 +191,15 @@ body{
   display: grid;
   gap:1em;
   justify-items:center;
-  width: 160px;
+  width: 150px;
   overflow:hidden;
   margin:0 auto;
 }
 
 .about__icon {
-  width:40px;
+  width: 60px;
+  
+
 }
 
 
@@ -211,7 +213,7 @@ body{
      display: grid;
      width: 90%;
      margin: 0 auto;
-     grid-template-columns: 5fr 3fr;
+     grid-template-columns: 5fr 3fr ;
      gap: 1em;
      align-items: center;
          
